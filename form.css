@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Glassmorphism CSS Effect</title>
+<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+
+<body>
+<div class="container">
+	<div class="circle1"></div>
+	<div class="circle2"></div>
+</div>
+<form> 
+	<h3>Welcome Back
+	<span>Login to your account</span>
+</h3>
+<label for="username">Username</label>
+<input type="text" placeholder="Cyber warriors" id="username">
+<label for="password">Password</label>
+<input type="password" placeholder="Minimum 6" id="password">
+<button>Log in</button>
+</body>
+
+</html>
